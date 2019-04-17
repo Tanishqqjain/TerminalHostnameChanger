@@ -7,8 +7,8 @@ Now everyone can edit the display of terminal according to their wish.
 
 ## STEPS TO FOLLOW:
 
-1.Download Changer.sh in Mac or Linux Os.
-2.Provide execute permission to Changer.sh ==> 'chmod +x Changer.sh'
-3.Execute Changer.sh ==> './Changer.sh'
-4.Then Follow Instructions shown in terminal.
-5.At last restart the terminal that's all.
+1.Download Changer.sh in Mac or Linux Os. <br>
+2.Provide execute permission to Changer.sh ==> 'chmod +x Changer.sh'<br>
+3.Execute Changer.sh ==> './Changer.sh' <br>
+4.Then Follow Instructions shown in terminal. <br>
+5.At last restart the terminal that's all. <br>
